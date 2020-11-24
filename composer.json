@@ -1,0 +1,21 @@
+{
+    "name": "batyukovstudio/bsl-core",
+    "authors": [
+        {
+            "name": "cvaize",
+            "email": "cvaize@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0",
+        "laravel/framework": "^7.0|^8.0|^9.0|^10.0",
+        "doctrine/dbal": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "BSLCore\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
