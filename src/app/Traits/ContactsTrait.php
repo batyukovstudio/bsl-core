@@ -1,7 +1,7 @@
 <?php
 
 
-namespace BSLCore\App\Traits\Common;
+namespace BSLCore\App\Traits;
 
 use Propaganistas\LaravelPhone\PhoneNumber;
 

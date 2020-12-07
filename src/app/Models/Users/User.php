@@ -3,7 +3,7 @@
 namespace BSLCore\App\Models\Users;
 
 use BSLCore\App\Models\Authenticatable;
-use BSLCore\App\Traits\Common\ContactsTrait;
+use BSLCore\App\Traits\ContactsTrait;
 
 class User extends Authenticatable
 {
