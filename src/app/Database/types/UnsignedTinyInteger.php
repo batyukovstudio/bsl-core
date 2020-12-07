@@ -1,6 +1,6 @@
 <?php
 
-namespace BSLCore\Database\Types;
+namespace BSLCore\App\Database\Types;
 
 use Doctrine\DBAL\Platforms\AbstractPlatform;
 use Doctrine\DBAL\Types\Type;

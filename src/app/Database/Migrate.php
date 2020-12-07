@@ -1,7 +1,7 @@
 <?php
 
 
-namespace BSLCore\Database;
+namespace BSLCore\App\Database;
 
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Schema\ColumnDefinition;

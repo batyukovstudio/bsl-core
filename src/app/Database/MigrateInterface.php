@@ -1,7 +1,7 @@
 <?php
 
 
-namespace BSLCore\Database;
+namespace BSLCore\App\Database;
 
 
 interface MigrateInterface
